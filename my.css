@@ -1,0 +1,17 @@
+body{
+
+  background-image: url(imag/p2.png);
+
+}
+
+.texto {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input{
+  border: 2px solid rgba(18, 0, 255, 0.36);
+  border-radius: 12px;
+}
